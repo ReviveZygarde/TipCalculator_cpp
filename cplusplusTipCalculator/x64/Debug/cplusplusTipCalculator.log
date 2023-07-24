@@ -1,0 +1,3 @@
+﻿  cplusplusTipCalculator.cpp
+C:\Users\Andrew\source\repos\cplusplusTipCalculator\cplusplusTipCalculator\cplusplusTipCalculator.cpp(38,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  cplusplusTipCalculator.vcxproj -> C:\Users\Andrew\source\repos\cplusplusTipCalculator\x64\Debug\cplusplusTipCalculator.exe
